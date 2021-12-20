@@ -32,7 +32,7 @@ public class Character{
 
     private int char_id;
 
-    public int getChar_id() {
+    public int  getChar_id() {
         return char_id;
     }
 

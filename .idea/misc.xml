@@ -4,11 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/drawable/back.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/drawable/ic_characters.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/drawable/ic_person.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/drawable/ic_settings.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/layout/activity_character_detail.xml" value="0.264" />
         <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/layout/activity_main.xml" value="0.23143115942028986" />
         <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/layout/character_record_item.xml" value="0.2" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/layout/fragment_characters.xml" value="0.2" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/layout/fragment_settings.xml" value="0.2" />
         <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/layout/movie_item.xml" value="0.264" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/RetrofitApp/app/src/main/res/menu/bottom_menu.xml" value="0.25677083333333334" />
       </map>
     </option>
   </component>
